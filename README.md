@@ -15,5 +15,4 @@ I am an Information Technology student and practitioner with a strong focus on s
 * **Frontend & Design:** UI/UX optimization, Data visualization for reporting, Image manipulation and structural editing
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Link to your profile]
 * **Portfolio:** https://rbndict.github.io
