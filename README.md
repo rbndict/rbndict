@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Benedict+👋;IT+Student+%26+Practitioner;Systems+%7C+Databases+%7C+UI%2FUX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Benedict+👋;IT+Student+%26+Practitioner;Systems+%7C+Databases+%7C+UI%2FUX" alt="Typing SVG" />
   </a>
 
   <p><i>An Information Technology student and practitioner with a strong focus on system administration, database management, and building intuitive user experiences.</i></p>
