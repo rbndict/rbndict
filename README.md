@@ -1,12 +1,10 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Benedict+👋;IT+Student+%26+Practitioner;Systems+%7C+Databases+%7C+UI%2FUX" alt="Typing SVG" />
-  </a>
 
-  <p><i>An Information Technology student and practitioner with a strong focus on system administration, database management, and building intuitive user experiences.</i></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Benedict+👋;IT+Student+%26+Practitioner;Systems+%7C+Databases+%7C+UI%2FUX&v=2)](https://git.io/typing-svg)
 
-  <a href="https://rbndict.github.io"><img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<p><i>An Information Technology student and practitioner with a strong focus on system administration, database management, and building intuitive user experiences.</i></p>
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rbndict.github.io)
 
 </div>
 
@@ -38,8 +36,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbndict&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbndict&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbndict&show_icons=true&theme=tokyonight&hide_border=true&v=2)](https://github.com/rbndict)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbndict&layout=compact&theme=tokyonight&hide_border=true&v=2)](https://github.com/rbndict)
+
 </div>
 
 ---
